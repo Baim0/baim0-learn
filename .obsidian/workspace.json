@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8sFunny/未命名.md",
+                "file": "k8sFunny/06 Linux 内存分析与观测.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k8sFunny/未命名.md",
+                "file": "k8sFunny/06 Linux 内存分析与观测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "k8sFunny/未命名.md",
+                "file": "k8sFunny/06 Linux 内存分析与观测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k8sFunny/未命名.md"
+                "file": "k8sFunny/06 Linux 内存分析与观测.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "abf2c3acea123adf",
   "lastOpenFiles": [
+    "k8sFunny/07 coredns 常见问题.md",
+    "k8sFunny/06 Linux 内存分析与观测.md",
     "prometheus/04 服务发现.md",
-    "k8sFunny/未命名.md",
     "terrafrom",
     "prometheus/03 查询.md",
     "prometheus/01 基本概念.md",
