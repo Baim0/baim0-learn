@@ -11,8 +11,12 @@
             "id": "abf2c3acea123adf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "prometheus/01 基本概念.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "prometheus/01 基本概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "prometheus/01 基本概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "prometheus/01 基本概念.md"
+              }
             }
           }
         ],
@@ -141,16 +149,17 @@
   },
   "active": "abf2c3acea123adf",
   "lastOpenFiles": [
-    "prometheus/04 服务发现.md",
+    "prometheus/02 PromQL.md",
     "prometheus/03 查询.md",
+    "prometheus/04 服务发现.md",
+    "img/Pasted image 20240525174039.png",
+    "img/Pasted image 20240525172906.png",
     "img/167f252ddd7fa85d~tplv-t2oaga2asx-jj-mark:3024:0:0:0:q75.png",
     "img/167f252ddd830e22~tplv-t2oaga2asx-jj-mark:3024:0:0:0:q75.png",
     "img/prometheus-metric-type-histogram.jpeg",
     "img/prometheus-metric-type-summary.jpeg",
     "img/v2-4812630bc27d642f7cafcd6cdeca3d7a.jpg",
-    "img/Pasted image 20240525172906.png",
     "2024-05-25.md",
-    "prometheus/02 PromQL.md",
     "未命名",
     "others/installK8S.md",
     "prometheus/04 测试.md",
