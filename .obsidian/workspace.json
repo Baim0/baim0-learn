@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "514dd61fe3232e37",
+            "id": "4c7ec0721daea567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prometheus/04 测试.md",
+                "file": "prometheus/04 服务发现.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 281.5
   },
   "right": {
     "id": "3adb14600842fb61",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prometheus/04 测试.md",
+                "file": "prometheus/04 服务发现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prometheus/04 测试.md",
+                "file": "prometheus/04 服务发现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prometheus/04 测试.md"
+                "file": "prometheus/04 服务发现.md"
               }
             }
           }
@@ -147,11 +147,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "514dd61fe3232e37",
+  "active": "0f1cbc6050e81183",
   "lastOpenFiles": [
-    "prometheus/04 测试.md",
-    "prometheus/03 查询.md",
+    "2024-05-25.md",
+    "prometheus/04 服务发现.md",
     "prometheus/02 PromQL.md",
+    "未命名",
+    "prometheus/03 查询.md",
+    "others/installK8S.md",
+    "prometheus/04 测试.md",
+    "kubernetes/kubernetes8.md",
+    "kubernetes/kubernetes7.md",
+    "kubernetes/kubernetes6.md",
+    "kubernetes/kubernetes5.md",
+    "kubernetes/kubernetes4.md",
+    "kubernetes/kubernetes3.md",
+    "kubernetes/kubernetes2.md",
+    "kubernetes/kubernetes1.md",
+    "k8sFunny/04 coredns相关配置.md",
+    "k8sFunny/05 ipvs 1s超时.md",
+    "k8sFunny/03 如何删除termintaing的名称空间.md",
+    "k8sFunny/01 descheduler.md",
+    "network/00 tcp详解.md",
     "prometheus/01 基本概念.md",
     "elk/00-序：ELK应用架构介绍（附专栏目录）.md"
   ]
