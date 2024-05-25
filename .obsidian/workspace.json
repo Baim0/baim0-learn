@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prometheus/01 基本概念.md",
+                "file": "k8sFunny/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prometheus/01 基本概念.md",
+                "file": "k8sFunny/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prometheus/01 基本概念.md",
+                "file": "k8sFunny/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prometheus/01 基本概念.md"
+                "file": "k8sFunny/未命名.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "abf2c3acea123adf",
   "lastOpenFiles": [
-    "prometheus/02 PromQL.md",
-    "prometheus/03 查询.md",
     "prometheus/04 服务发现.md",
+    "k8sFunny/未命名.md",
+    "terrafrom",
+    "prometheus/03 查询.md",
+    "prometheus/01 基本概念.md",
+    "prometheus/02 PromQL.md",
     "img/Pasted image 20240525174039.png",
     "img/Pasted image 20240525172906.png",
     "img/167f252ddd7fa85d~tplv-t2oaga2asx-jj-mark:3024:0:0:0:q75.png",
@@ -160,7 +163,6 @@
     "img/prometheus-metric-type-summary.jpeg",
     "img/v2-4812630bc27d642f7cafcd6cdeca3d7a.jpg",
     "2024-05-25.md",
-    "未命名",
     "others/installK8S.md",
     "prometheus/04 测试.md",
     "kubernetes/kubernetes8.md",
@@ -176,7 +178,6 @@
     "k8sFunny/03 如何删除termintaing的名称空间.md",
     "k8sFunny/01 descheduler.md",
     "network/00 tcp详解.md",
-    "prometheus/01 基本概念.md",
     "elk/00-序：ELK应用架构介绍（附专栏目录）.md"
   ]
 }
