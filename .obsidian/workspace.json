@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42fa3d1a0cd6ea72",
+        "id": "28c2db46d91b5939",
         "type": "tabs",
         "children": [
           {
-            "id": "abf2c3acea123adf",
+            "id": "35201e74e09f902f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8sFunny/06 Linux 内存分析与观测.md",
+                "file": "network/01 tcpdump详解.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k8sFunny/06 Linux 内存分析与观测.md",
+                "file": "network/01 tcpdump详解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "k8sFunny/06 Linux 内存分析与观测.md",
+                "file": "network/01 tcpdump详解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k8sFunny/06 Linux 内存分析与观测.md"
+                "file": "network/01 tcpdump详解.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "abf2c3acea123adf",
+  "active": "35201e74e09f902f",
   "lastOpenFiles": [
-    "k8sFunny/07 coredns 常见问题.md",
+    "network/00 tcp详解.md",
+    "nginx/01. 先补补Linux系统和服务器的基础 打好Nginx运行的环境基础.md",
     "k8sFunny/06 Linux 内存分析与观测.md",
+    "k8sFunny/07 coredns 常见问题.md",
     "prometheus/04 服务发现.md",
     "terrafrom",
     "prometheus/03 查询.md",
@@ -178,7 +180,6 @@
     "k8sFunny/05 ipvs 1s超时.md",
     "k8sFunny/03 如何删除termintaing的名称空间.md",
     "k8sFunny/01 descheduler.md",
-    "network/00 tcp详解.md",
     "elk/00-序：ELK应用架构介绍（附专栏目录）.md"
   ]
 }
