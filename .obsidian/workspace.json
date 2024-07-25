@@ -162,9 +162,11 @@
   },
   "active": "e80c566053c81567",
   "lastOpenFiles": [
+    "k8sFunny/02 如何让你集群更整洁.md",
+    "k8sFunny/03 如何删除termintaing的名称空间.md",
+    "k8sFunny/07 如何使yaml更好看.md",
     "img/Pasted image 20240725224114.png",
     "k8sFunny/06 Linux 内存分析与观测.md",
-    "k8sFunny/07 如何使yaml更好看.md",
     "network/01 tcpdump详解.md",
     "network/00 tcp详解.md",
     "nginx/01. 先补补Linux系统和服务器的基础 打好Nginx运行的环境基础.md",
@@ -194,7 +196,6 @@
     "kubernetes/kubernetes1.md",
     "k8sFunny/04 coredns相关配置.md",
     "k8sFunny/05 ipvs 1s超时.md",
-    "k8sFunny/03 如何删除termintaing的名称空间.md",
     "k8sFunny/01 descheduler.md"
   ]
 }
