@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "766281c360d9ae1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "k8sFunny/如何本地搭建ollama大模型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k8sFunny/terrafrom.md",
+                "file": "k8sFunny/如何本地搭建ollama大模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "k8sFunny/terrafrom.md",
+                "file": "k8sFunny/如何本地搭建ollama大模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k8sFunny/terrafrom.md"
+                "file": "k8sFunny/如何本地搭建ollama大模型.md"
               }
             }
           }
@@ -172,10 +184,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "747e4049f67e96a7",
+  "active": "766281c360d9ae1d",
   "lastOpenFiles": [
-    "k8sFunny/07 如何使yaml更好看.md",
+    "img/Pasted image 20240728130417.png",
+    "img/Pasted image 20240728130237.png",
     "k8sFunny/terrafrom.md",
+    "k8sFunny/如何本地搭建ollama大模型.md",
+    "youAreSoBoring",
+    "k8sFunny/07 如何使yaml更好看.md",
     "k8sFunny/02 如何让你集群更整洁.md",
     "k8sFunny/03 如何删除termintaing的名称空间.md",
     "img/Pasted image 20240725224114.png",
@@ -206,8 +222,6 @@
     "kubernetes/kubernetes4.md",
     "kubernetes/kubernetes3.md",
     "kubernetes/kubernetes2.md",
-    "kubernetes/kubernetes1.md",
-    "k8sFunny/04 coredns相关配置.md",
-    "k8sFunny/05 ipvs 1s超时.md"
+    "kubernetes/kubernetes1.md"
   ]
 }
