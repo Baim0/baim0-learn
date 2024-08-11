@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8sFunny/06 Linux 内存分析与观测.md",
+                "file": "youAreSoBoring/如何本地搭建ollama大模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k8sFunny/06 Linux 内存分析与观测.md",
+                "file": "youAreSoBoring/如何本地搭建ollama大模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "k8sFunny/06 Linux 内存分析与观测.md",
+                "file": "youAreSoBoring/如何本地搭建ollama大模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k8sFunny/06 Linux 内存分析与观测.md"
+                "file": "youAreSoBoring/如何本地搭建ollama大模型.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "35201e74e09f902f",
   "lastOpenFiles": [
+    "k8sFunny/06 Linux 内存分析与观测.md",
     "k8sFunny/07 如何使yaml更好看.md",
     "others/installK8S.md",
     "youAreSoBoring/如何本地搭建ollama大模型.md",
@@ -159,7 +160,6 @@
     "k8sFunny/02 如何让你集群更整洁.md",
     "k8sFunny/03 如何删除termintaing的名称空间.md",
     "img/Pasted image 20240725224114.png",
-    "k8sFunny/06 Linux 内存分析与观测.md",
     "network/01 tcpdump详解.md",
     "network/00 tcp详解.md",
     "nginx/01. 先补补Linux系统和服务器的基础 打好Nginx运行的环境基础.md",
