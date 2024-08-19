@@ -1,4 +1,7 @@
+## mtr 简介
 `mtr`（Multi Tester Router）是一个用于测试网络连通性的命令行工具，它是基于`ping`和`traceroute`的功能改进版。`mtr`的全名是“Multi Tester Router”，它可以同时对多个目标进行IP地址检测、ICMP响应时间测试以及路由跟踪。
+
+
 
 以下是`mtr`的一些主要功能和用法：
 
@@ -36,4 +39,11 @@
 ```bash
 mtr -c 10 -r google.com
 ```
+
+示例：使用 tcp 协议进行探测
+
+```bash
+mtr --tcp --port=443 xxx.xxx.xxx.xxx -r -c 20
+```
+
 
