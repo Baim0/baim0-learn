@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2fbb937453f54625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "funnycase/01 为什么下载不到文件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "youAreSoBoring/如何本地搭建ollama大模型.md",
+                "file": "funnycase/01 为什么下载不到文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "youAreSoBoring/如何本地搭建ollama大模型.md",
+                "file": "funnycase/01 为什么下载不到文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "youAreSoBoring/如何本地搭建ollama大模型.md"
+                "file": "funnycase/01 为什么下载不到文件.md"
               }
             }
           }
@@ -147,12 +160,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "35201e74e09f902f",
+  "active": "2fbb937453f54625",
   "lastOpenFiles": [
+    "youAreSoBoring/如何本地搭建ollama大模型.md",
+    "funnycase/01 为什么下载不到文件.md",
+    "未命名",
+    "funnycase",
     "k8sFunny/06 Linux 内存分析与观测.md",
     "k8sFunny/07 如何使yaml更好看.md",
     "others/installK8S.md",
-    "youAreSoBoring/如何本地搭建ollama大模型.md",
     "k8sFunny/terrafrom.md",
     "img/Pasted image 20240728130417.png",
     "img/Pasted image 20240728130237.png",
