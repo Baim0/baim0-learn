@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/01 mtr.md",
+                "file": "network/03 linux route详解.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/01 mtr.md",
+                "file": "network/03 linux route详解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/01 mtr.md",
+                "file": "network/03 linux route详解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/01 mtr.md"
+                "file": "network/03 linux route详解.md"
               }
             }
           }
@@ -162,9 +162,10 @@
   },
   "active": "2fbb937453f54625",
   "lastOpenFiles": [
-    "network/02 tcpdump详解.md",
-    "network/01 mtr.md",
     "youAreSoBoring/如何本地搭建ollama大模型.md",
+    "network/03 linux route详解.md",
+    "network/01 mtr.md",
+    "network/02 tcpdump详解.md",
     "未命名",
     "funnycase",
     "k8sFunny/06 Linux 内存分析与观测.md",
@@ -200,7 +201,6 @@
     "kubernetes/kubernetes5.md",
     "kubernetes/kubernetes4.md",
     "kubernetes/kubernetes3.md",
-    "kubernetes/kubernetes2.md",
-    "kubernetes/kubernetes1.md"
+    "kubernetes/kubernetes2.md"
   ]
 }
