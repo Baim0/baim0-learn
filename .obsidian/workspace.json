@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/01 test.md",
+                "file": "AI/01 test-mcp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/01 test.md",
+                "file": "AI/01 test-mcp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/01 test.md",
+                "file": "AI/01 test-mcp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/01 test.md"
+                "file": "AI/01 test-mcp.md"
               }
             }
           }
@@ -151,7 +151,7 @@
   "lastOpenFiles": [
     "youAreSoBoring/如何本地搭建ollama大模型.md",
     "youAreSoBoring/frp内网穿透.md",
-    "AI/01 test.md",
+    "AI/01 test-mcp.md",
     "AI",
     "k8sFunny/01 descheduler.md",
     "kubernetes/kubernetes1.md",
